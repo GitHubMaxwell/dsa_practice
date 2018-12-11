@@ -1,4 +1,7 @@
-function Tree() {
-  console.log("hello");
-}
-export default Tree;
+// import binaryTreeMaker from "./binaryTreeMaker.js";
+
+// function Add() {
+//   console.log("hello");
+// }
+
+// export default Add;

@@ -4,7 +4,7 @@ module.exports = function(wallaby) {
       // 'arrays/**/*.js',
       // 'll/**/*.js',
       // 'stacks_queues/**/*.js',
-      "binary_trees/**/*.js",
+      "src/components/binary_trees/**/*.js",
       "!__tests__/binary_tree_tests/**/*.js"
     ],
 
